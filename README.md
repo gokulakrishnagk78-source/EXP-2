@@ -49,15 +49,17 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
-Tabulation for Load Test:
+![Screenshot_27-12-2025_81159_ems-iitr vlabs ac in](https://github.com/user-attachments/as!
+table for open circuit and model graph:
+[WhatsApp Image 2025-12-27 at 8 56 43 AM](https://github.com/user-attachments/assets/14dabcd4-c63b-4cc7-84b2-5f4c2214f3a3)
+sets/91e6c655-6b03-4ac0-a2c5-085ad21f7bcc)
+table for load circuit and model graph:
+![WhatsApp Image 2025-12-27 at 8 58 48 AM](https://github.com/user-attachments/assets/fe94a549-e354-4967-8a0b-d414c4e63500)
 
-Model graph:
-Calculation: 
-
-Open circuit characteristics
+Tabulation for Lo![WhatsApp Image 2025-12-27 at 8 56 43 AM](https://github.com/user-attachments/assets/4941c9c8-4146-4981-8ef0-aefcdc4af4f0)
+ad Test:
 
   
-Load Characteristics:
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
